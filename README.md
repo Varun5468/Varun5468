@@ -18,22 +18,22 @@ I’m passionate about technology, problem-solving, and building impactful proje
 
 ## 🛠️ Tech Stack  
 
-### 💻 Programming Languages  
+💻 Programming Languages  
 - C, C++, Python, Java, JavaScript  
 
-### 🌐 Web Development  
+🌐 Web Development  
 - Frontend: HTML, CSS, React.js  
 - Backend: Django, Flask, Node.js  
 - Database: MySQL, MongoDB, SQLite  
 
-### ⚙️ Tools & Platforms  
+⚙️ Tools & Platforms  
 - Git & GitHub  
 - Docker, VS Code  
 - AWS, Firebase  
 
 ---
 
-## 🚀 Projects  
+🚀 Projects  
 Here are a few projects I’ve worked on:  
 - **College Vibes** 🎉 – A campus event management platform with WhatsApp notifications & certificate generation  
 - **Nextera** 📘 – An AI-powered adaptive learning platform (Django + React)  
